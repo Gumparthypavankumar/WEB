@@ -1,0 +1,27 @@
+a.home
+{
+	border:black 2px solid;
+	padding:5px 5px 5px 5px;
+	border-radius:2px;
+	background-color:rgb(192,192,192);
+	cursor:URL("C:\Program Files (x86)\VulkanRT\1.0.65.1"),default;
+}
+#main{
+	background-color:yellow;
+}
+p.para1
+{
+	color:red;
+	font-family:helvetica;
+	fontsize:15px;
+	background-color:yellow;
+	cursor:crosshair;
+}
+.video{
+	border-color: black;
+	border-width: 2px;
+	border-style:solid;
+	border-radius: 5px;
+	padding:10px 10px 10px 10px;
+	
+}
